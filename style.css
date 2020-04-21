@@ -1,8 +1,11 @@
-h2 (
-    color: blue 
+h2 {
+     color: blue 
     font-family: "Courier New Lucida Console" "Monospace"
-)
+    border: 2px aquamarine;
+    }
+div{
+    border: 2px solid black;
+    border: 2px dashed black;
+}  
 
-body (
 
-)
